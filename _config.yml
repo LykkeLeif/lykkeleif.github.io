@@ -28,11 +28,11 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Martin!
-  Throughout my life, I've been working in retail. I was absolutely enchanted by the feeling of community and solidarity, so I ended up starting a career.
+  Throughout my life, I've been working in retail. I was absolutely enchanted by the feeling of community and solidarity, so I ended up starting my career here.
   
   Deep down, I've always been a nerd, so after working my way up through the retail business, I ended up in a headquarter function as a consultant before (finally!) transitioning into IT.
   
-  When I managed to land a job in security, I knew I had struck gold. The everchanging threat landscape; the balancing of cost vs. benefit; the complex problems that needed to be communicated in a way so the audience understood... I was enchanted.
+  When I managed to land a job in security, I knew I had struck gold. The everchanging threat landscape; the balancing of cost vs. benefit; the complex problems that needed to be communicated in a way so the audience understood... I was enthrawled.
   
   So here I am. Enjoying every day doing what I am deeply passionated about. 
 
@@ -72,7 +72,7 @@ content:
         quote: >
           Managing security and compliance in a multinational retail group.
         description: | 
-          Together with my team of incredibly talented specialists, we're working on keeping a high level of security in a fast-paced company in a constantly changing sector.
+          Together with my team of incredibly talented specialists, we're working on keeping a high level of security in a fast-paced company in a constantly changing industry.
           
           When working in a very cost-focused environment, I quickly learnt to balance cost vs. benefit. One of my first actions when starting in the position was to go through every process and every delivery in the team to ensure that only the ones adding value remained. 
           
@@ -101,9 +101,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Although I'm deeply passioned about my profession, there's more to life than work.
-      
-      My family is the most important element in my life - I'm definitely a family-man.
-      
+      My family is without a doubt the most important element in my life - I'm definitely a family-man.
       Privately I live together with my girlfriend and our little dog in our new house.
 
 
