@@ -46,8 +46,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Wrote and implemented ISO27002 policy
+        #link: ---
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -57,9 +57,22 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Building the foundation for a modern security programme
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Some great words here.
+      
+      - layout: top-middle
+        title: Implementation of Microsoft E5 EMS Suite
+        #link: ---
+        # link_text: Project Website
+        additional_links:
+          - title:  Microsoft EMS
+            #icon: fab fa-github
+            url: https://www.microsoft.com/en-us/security/business/enterprise-mobility-security
+        quote: >
+          Ambitious move to raise the security level across multiple domains 
+        description: | # this will include new lines to allow paragraphs
+          Something good.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -73,7 +86,9 @@ content:
         quote: >
           Managing security and compliance in a multinational retail group.
         description: | 
-            
+          Together with my team of incredibly talented specialists, we're working on keeping a high level of security in a fast-paced company in a constantly changing sector.
+          When working in a very cost-focused environment, I quickly learnt to balance cost vs. benefit. One of my first actions when starting in the position was to go through every process and every delivery in the team to ensure that only the ones adding value remained. 
+          This ensured maximum output and a highly motivated team, since they felt their work made a change!
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
