@@ -37,8 +37,11 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Martin!
   Throughout my life, I've been working in retail. I was absolutely enchanted by the feeling of community and solidarity, so I ended up starting a career.
+  
   Deep down, I've always been a nerd, so after working my way up through the retail business, I ended up in a headquarter function as a consultant before (finally!) transitioning into IT.
+  
   When I managed to land a job in security, I knew I had struck  gold. The everchanging threat landscape; the balancing of cost vs. benefit; the complex problems that needed to be communicated in a way so the audience understood... I was in love.
+  
   So here I am. Enjoying every day doing what I am deeply passionated about. 
 
 content:
@@ -47,15 +50,6 @@ content:
     content:
       - layout: top-middle
         title: Wrote and implemented ISO27002 policy
-        #link: ---
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           Building the foundation for a modern security programme
         description: | # this will include new lines to allow paragraphs
@@ -87,7 +81,9 @@ content:
           Managing security and compliance in a multinational retail group.
         description: | 
           Together with my team of incredibly talented specialists, we're working on keeping a high level of security in a fast-paced company in a constantly changing sector.
+          
           When working in a very cost-focused environment, I quickly learnt to balance cost vs. benefit. One of my first actions when starting in the position was to go through every process and every delivery in the team to ensure that only the ones adding value remained. 
+          
           This ensured maximum output and a highly motivated team, since they felt their work made a change!
 
 #  - title: Education # Title for the section
@@ -108,10 +104,14 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Although I'm deeply passioned about my profession, there's more to life than work.
+      
       My family is the most important element in my life - I'm definitely a family-man.
+      
       Privately I live together with my girlfriend and our little dog in our new house.
 
+
       That being said, I'm also a nerd in my free time. I enjoy a good game, both board and video.
+      
       Other than that I enjoy learning new stuff and a good challenge is always welcome. 
 
 # Footer
