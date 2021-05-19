@@ -20,16 +20,8 @@ github_username:  lykkeleif
 #instagram_username: ---
 linkedin_username: martinmcdougall
 #youtube_username: ---
-wickr_username: mcdougall90
 
-# Additional icon links
 additional_links:
-#- title: itsgoingto.be
-#  icon: fas fa-globe
-#  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
 
 # About Section
 # about_title: About Me
@@ -85,6 +77,11 @@ content:
           When working in a very cost-focused environment, I quickly learnt to balance cost vs. benefit. One of my first actions when starting in the position was to go through every process and every delivery in the team to ensure that only the ones adding value remained. 
           
           This ensured maximum output and a highly motivated team, since they felt their work made a change!
+
+          My areas of responsibility include:
+           - IT Auditing
+           - Security compliance (PCI DSS, EU GDPR, ISO27000)
+           - Security incident response
 
 #  - title: Education # Title for the section
 #    layout: list # Type of content section (list/text)
