@@ -107,7 +107,7 @@ content:
         sub_title: Business Relations Manager, eCommerce & Digital Development
         caption: May 2016 - November 2018
         quote: >
-          Coordination development pipeline and priorities for eCommerce and digital products, as well as internal customer managment
+          Coordination development pipeline and priorities for eCommerce and digital products, as well as internal customer managment.
         description: | 
           As business relations manager for the eCommerce and digital development, I was the liaison between the IT department and
           the digital development department. 
@@ -115,6 +115,24 @@ content:
           Managing and coordinating the efforts between a large (at the time) predominantly waterfall-oriented organization, and an
           extremely agile smaller department was no easy task in itself, but when ends met, we were able to deliver awesome solutions
           together!
+
+  - layout: left
+        title: føtex, a part of Salling Group
+        link: foetex.dk
+        # link_text: 
+        sub_title: Management Consultant
+        caption: July 2012 - April 2016
+        quote: >
+          Creating business insights through numbers crunching, reporting and business process optimization.
+        description: | 
+          Originally starting out as a junior consultant, I was primarilly tasked with converting large amounts of data into consumable
+          reports for audiences across the organization; from the CEO to the department managers out in the individual stores.
+
+          The reporting branched out into the creation of internal tools to ease the daily work of our stores by minimizing the amount
+          of time they needed to spend in front of a screen instead of servicing our customers.
+
+          By the end of my time as a management consultant i føtex, I had created a centralized controlling setup which serviced all stores
+          every week with key insights into their performance (operational, sales, waste, etc.).
 
 #  - title: Education # Title for the section
 #    layout: list # Type of content section (list/text)
