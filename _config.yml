@@ -73,8 +73,9 @@ content:
 
           By building threat scenarios based on real-life scenarios happening within the previous year, we were able to build a common
           understanding of the risks of doing nothing. After that we could move on to discuss the alternatives.
-          We went for the Microsoft solution due to it's promising roadmap, good performance and great compatibility with operational
-          skills already in place for running a large suite of Microsoft products.
+          Selecting the right product was essential, and by ensuring compatability with both inhouse skillsets, daily operations,
+          as well as the ambitions and requirements from our security policies & strategy, we went with the Microsoft E5 EMS solution.
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -98,6 +99,22 @@ content:
            - IT Auditing
            - Security compliance (PCI DSS, EU GDPR, ISO27000)
            - Security incident response
+
+  - layout: left
+        title: Salling Group
+        link: sallinggroup.com
+        # link_text: 
+        sub_title: Business Relations Manager, eCommerce & Digital Development
+        caption: May 2016 - November 2018
+        quote: >
+          Coordination development pipeline and priorities for eCommerce and digital products, as well as internal customer managment
+        description: | 
+          As business relations manager for the eCommerce and digital development, I was the liaison between the IT department and
+          the digital development department. 
+
+          Managing and coordinating the efforts between a large (at the time) predominantly waterfall-oriented organization, and an
+          extremely agile smaller department was no easy task in itself, but when ends met, we were able to deliver awesome solutions
+          together!
 
 #  - title: Education # Title for the section
 #    layout: list # Type of content section (list/text)
