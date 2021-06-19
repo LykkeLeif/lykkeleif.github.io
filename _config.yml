@@ -100,7 +100,7 @@ content:
            - Security compliance (PCI DSS, EU GDPR, ISO27000)
            - Security incident response
 
-  - layout: left
+      - layout: left
         title: Salling Group
         link: sallinggroup.com
         # link_text: 
@@ -116,7 +116,7 @@ content:
           extremely agile smaller department was no easy task in itself, but when ends met, we were able to deliver awesome solutions
           together!
 
-  - layout: left
+      - layout: left
         title: føtex, a part of Salling Group
         link: foetex.dk
         # link_text: 
@@ -134,7 +134,7 @@ content:
           By the end of my time as a management consultant i føtex, I had created a centralized controlling setup which serviced all stores
           every week with key insights into their performance (operational, sales, waste, etc.).
 
-  - layout: left
+      - layout: left
         title: føtex and Bilka, a part of Salling Group
         link: foetex.dk
         # link_text: 
