@@ -45,7 +45,17 @@ content:
         quote: >
           Building the foundation for a modern security programme
         description: | # this will include new lines to allow paragraphs
-          Some great words here.
+          Buying security gadgets and software is not what makes you secure. 
+          Combining the different aspects of information security into a streamlined, standardized policy paved the road to
+          further improve our security posture. 
+
+          By taking a top-down approach, we methodically went through all the domains and ensured that we had a written 
+          policy on each area, and at the same time that they were complementing each other and not contradicting each other.
+
+          Although writing a policy can be tricky, the real battle is the implementation in the business. A written policy provides
+          nothing if the organization does not live by it.
+          In all honesty, you're never done implementing a policy. It's an continuous process to ensure compliance in both existing
+          as well as new processes, products and employees.
       
       - layout: top-middle
         title: Implementation of Microsoft E5 EMS Suite
@@ -58,7 +68,13 @@ content:
         quote: >
           Ambitious move to raise the security level across multiple domains 
         description: | # this will include new lines to allow paragraphs
-          Something good.
+          Raising security in a cost-focused can be tricky. Without any larger incidents, the benefits of further investments into 
+          security product are hard to leverage.
+
+          By building threat scenarios based on real-life scenarios happening within the previous year, we were able to build a common
+          understanding of the risks of doing nothing. After that we could move on to discuss the alternatives.
+          We went for the Microsoft solution due to it's promising roadmap, good performance and great compatibility with operational
+          skills already in place for running a large suite of Microsoft products.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
