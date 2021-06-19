@@ -134,6 +134,21 @@ content:
           By the end of my time as a management consultant i føtex, I had created a centralized controlling setup which serviced all stores
           every week with key insights into their performance (operational, sales, waste, etc.).
 
+  - layout: left
+        title: føtex and Bilka, a part of Salling Group
+        link: foetex.dk
+        # link_text: 
+        sub_title: Various positions in sales, operations and management
+        caption: July 2006 - June 2012
+        quote: >
+          Building the foundation of who I am today
+        description: | 
+          Working in the stores largely made me who I am today. It taught me about the versatility of people, and gave me a 
+          healthy amount of respect for my fellow colleagues and customers. 
+
+          Although I do not miss working in a store today, I would have never done without it - and if I were to be given the
+          possibility to rewind time, I would do it all again! 
+
 #  - title: Education # Title for the section
 #    layout: list # Type of content section (list/text)
 #    content:
