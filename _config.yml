@@ -62,7 +62,7 @@ content:
         #link: ---
         # link_text: Project Website
         additional_links:
-          - title:  Microsoft EMS
+          - title:  Microsoft EMS E5
             #icon: fab fa-github
             url: https://www.microsoft.com/en-us/security/business/enterprise-mobility-security
         quote: >
@@ -166,7 +166,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Although I'm deeply passioned about my profession, there's more to life than work.
+      Even though I'm deeply passioned about my profession, there's more to life than work.
       My family is without a doubt the most important element in my life - I'm definitely a family-man.
       Privately I live together with my girlfriend and our little dog in our new house.
 
