@@ -175,6 +175,15 @@ content:
       
       Other than that I enjoy learning new stuff and a good challenge is always welcome. 
 
+  - title: Language proficiency # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Danish
+        description: Mother tongue.
+      - layout: left
+        title: English
+        description: Business proficiency in speech and writing.
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
