@@ -76,6 +76,25 @@ content:
           Selecting the right product was essential, and by ensuring compatability with both inhouse skillsets, daily operations,
           as well as the ambitions and requirements from our security policies & strategy, we went with the Microsoft E5 EMS solution.
 
+      - layout: top-middle
+        title: Risk management
+        quote: >
+          Security is best addressed through a risk-based approach.
+          
+          Risk assessments were seen as non-value-adding bureaucracy, so I built the function from the ground. 
+          Without increasing the headcount at first, we started by defining a policy and a process, and then took an agile approach in order to identify what worked and what didn't.
+          In under a year, the risk management framework was done, and I was ready to scale up the efforts by hiring a dedicated employee for the risk area. 
+
+          The new risk management framework proved great value in identifying weak areas and prioritizing efforts.
+        description: | # this will include new lines to allow paragraphs
+          
+
+      - layout: top-middle
+        title: Redesign business continuity
+        quote: >
+          Getting rid of heavy documents, and focusing on modularity instead
+        description: | # this will include new lines to allow paragraphs
+          
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -99,6 +118,8 @@ content:
            - IT Auditing
            - Security compliance (PCI DSS, EU GDPR, ISO27000)
            - Security incident response
+           - Risk management
+           - Business continuity management
 
       - layout: left
         title: Salling Group
@@ -168,7 +189,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       Even though I'm deeply passioned about my profession, there's more to life than work.
       My family is without a doubt the most important element in my life - I'm definitely a family-man.
-      Privately I live together with my girlfriend and our little dog in our new house.
+      Privately I live together with my wife and our little dog in our new house.
 
 
       That being said, I'm also a nerd in my free time. I enjoy a good game, both board and video.
