@@ -80,14 +80,12 @@ content:
         title: Risk management
         quote: >
           Security is best addressed through a risk-based approach.
-          
+        description: | # this will include new lines to allow paragraphs
           Risk assessments were seen as non-value-adding bureaucracy, so I built the function from the ground. 
           Without increasing the headcount at first, we started by defining a policy and a process, and then took an agile approach in order to identify what worked and what didn't.
           In under a year, the risk management framework was done, and I was ready to scale up the efforts by hiring a dedicated employee for the risk area. 
 
           The new risk management framework proved great value in identifying weak areas and prioritizing efforts.
-        description: | # this will include new lines to allow paragraphs
-          
 
       - layout: top-middle
         title: Redesign business continuity
