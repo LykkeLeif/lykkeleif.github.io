@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Martin McDougall
-title: Senior IT Security Manager
+title: CISO
 email: martin@mcdougall.dk
 website: profile.mcdougall.dk
 
@@ -15,7 +15,7 @@ website: profile.mcdougall.dk
 darkmode: false
 
 # Social links
-twitter_username: wetn0odle
+# twitter_username: wetn0odle
 github_username:  lykkeleif
 #instagram_username: ---
 linkedin_username: martinmcdougall
@@ -93,16 +93,34 @@ content:
           Getting rid of heavy documents, and focusing on modularity instead
         description: | # this will include new lines to allow paragraphs
           
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: OK a.m.b.a.
+        link: ok.dk
+        # link_text: 
+        sub_title: CISO, Corporate IT
+        caption: May 2024 - Present
+        quote: >
+          Security, resilience and risk management in critical infrastructure
+        description: | 
+          Increasing legislation and a high threat level is the new norm for the critical infrastructure businesses.
+          Together with a lot of great colleagues, I am working on building a high level of resiliency into the business through diligent risk management and close collaboration with IT and business partners.
+
+          My areas of responsibility include:
+           - IT risk management
+           - Security compliance (NIS2, CER, ISO2700x)
+           - Security and risk advisory
+           - Business Continuity Management
+           - IT audits
+
+- layout: left
         title: Salling Group
         link: sallinggroup.com
         # link_text: 
-        sub_title: Senior Manager, Group IT Security
-        caption: December 2018 - Present
+        sub_title: Senior Manager (CISO), Group IT Security
+        caption: December 2018 - April 2024
         quote: >
           Managing security and compliance in a multinational retail group.
         description: | 
