@@ -115,7 +115,7 @@ content:
            - Business Continuity Management
            - IT audits
 
-- layout: left
+      - layout: left
         title: Salling Group
         link: sallinggroup.com
         # link_text: 
