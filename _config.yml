@@ -40,6 +40,18 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+
+      - layout: top-middle
+        title: NIS2 implementation in the utilities sector
+        quote: >
+          Ensuring compliant implementation of a massive regulation with very little guidance (initially)
+        description: | # this will include new lines to allow paragraphs
+          In the early phases of NIS2, there were no real guidance as to which requirements would be set by the authorities.
+          My job was to oversee the NIS2-project, and ensure that we were ambitious, yet pragmatic in our activities. It was essential for me, that we did not underestimate the potential scope of requirements from the authorities, but still safeguard the organization from overbureactratic implementations.
+          The project gave a lot of opportunity to address foundational changes to processes and practices, in order to raise maturity both within the expected scope of NIS2 as well as from a corporate perspective.
+
+          The project entailed multiple activities across governance, risk and, of course, compliance.
+
       - layout: top-middle
         title: Wrote and implemented ISO27002 policy
         quote: >
@@ -100,7 +112,7 @@ content:
         title: OK a.m.b.a.
         link: ok.dk
         # link_text: 
-        sub_title: CISO, Corporate IT
+        sub_title: CISO, Director, Corporate IT
         caption: May 2024 - Present
         quote: >
           Security, resilience and risk management in critical infrastructure
@@ -205,10 +217,11 @@ content:
     content: | # this will include new lines to allow paragraphs
       Even though I'm deeply passioned about my profession, there's more to life than work.
       My family is without a doubt the most important element in my life - I'm definitely a family-man.
-      Privately I live together with my wife and our little dog in our new house.
+      Privately I live together with my wife, my two daughters and our dog in our new house.
 
 
       That being said, I'm also a nerd in my free time. I enjoy a good game, both board and video.
+      I'm also a hobby photographer with a special interest in nature and wildlife photography.
       
       Other than that I enjoy learning new stuff and a good challenge is always welcome. 
 
